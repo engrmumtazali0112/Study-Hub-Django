@@ -80,8 +80,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name -   Mumtaz ALi
-Email:        engrmumtazali01@gmail.com
+#Your Name -   Mumtaz ALi
+#Email:        engrmumtazali01@gmail.com
 
 Project Link: https://github.com/engrmumtazali0112/Study-Hub-Django
 
