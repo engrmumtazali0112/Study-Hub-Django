@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: https://github.com/engrmumtazali0112/Study-Hub-Django
 
 <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+<h3> Connect with me
 </h3> 
 <p align="center">
     <a href="mailto:engrmumtazali01@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
